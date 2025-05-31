@@ -1,2 +1,2 @@
 # pagina_web
-projeto web
+projeto cards, possui html, css.style e JS
